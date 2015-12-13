@@ -1,0 +1,5 @@
+D:\Projects\PrimitiveTypesAndVariables\CharactersAndStrings\bin\Debug\CharactersAndStrings.exe.config
+D:\Projects\PrimitiveTypesAndVariables\CharactersAndStrings\bin\Debug\CharactersAndStrings.exe
+D:\Projects\PrimitiveTypesAndVariables\CharactersAndStrings\bin\Debug\CharactersAndStrings.pdb
+D:\Projects\PrimitiveTypesAndVariables\CharactersAndStrings\obj\Debug\CharactersAndStrings.exe
+D:\Projects\PrimitiveTypesAndVariables\CharactersAndStrings\obj\Debug\CharactersAndStrings.pdb

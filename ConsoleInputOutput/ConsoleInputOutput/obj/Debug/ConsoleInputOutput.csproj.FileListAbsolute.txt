@@ -1,0 +1,6 @@
+D:\Projects\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+D:\Projects\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe
+D:\Projects\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.pdb
+D:\Projects\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+D:\Projects\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb

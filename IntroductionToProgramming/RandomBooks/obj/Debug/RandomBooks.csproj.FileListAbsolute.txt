@@ -1,0 +1,6 @@
+D:\Projects\IntroductionToProgramming\RandomBooks\bin\Debug\RandomBooks.exe.config
+D:\Projects\IntroductionToProgramming\RandomBooks\bin\Debug\RandomBooks.exe
+D:\Projects\IntroductionToProgramming\RandomBooks\bin\Debug\RandomBooks.pdb
+D:\Projects\IntroductionToProgramming\RandomBooks\obj\Debug\RandomBooks.csprojResolveAssemblyReference.cache
+D:\Projects\IntroductionToProgramming\RandomBooks\obj\Debug\RandomBooks.exe
+D:\Projects\IntroductionToProgramming\RandomBooks\obj\Debug\RandomBooks.pdb

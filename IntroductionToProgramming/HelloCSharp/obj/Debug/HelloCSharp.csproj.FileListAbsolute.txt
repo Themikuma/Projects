@@ -1,0 +1,5 @@
+D:\Projects\IntroductionToProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Projects\IntroductionToProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\Projects\IntroductionToProgramming\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Projects\IntroductionToProgramming\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Projects\IntroductionToProgramming\HelloCSharp\obj\Debug\HelloCSharp.pdb

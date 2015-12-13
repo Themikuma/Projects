@@ -1,0 +1,5 @@
+D:\Projects\Homework\MSDNDemo\bin\Debug\MSDNDemo.exe.config
+D:\Projects\Homework\MSDNDemo\bin\Debug\MSDNDemo.exe
+D:\Projects\Homework\MSDNDemo\bin\Debug\MSDNDemo.pdb
+D:\Projects\Homework\MSDNDemo\obj\Debug\MSDNDemo.exe
+D:\Projects\Homework\MSDNDemo\obj\Debug\MSDNDemo.pdb

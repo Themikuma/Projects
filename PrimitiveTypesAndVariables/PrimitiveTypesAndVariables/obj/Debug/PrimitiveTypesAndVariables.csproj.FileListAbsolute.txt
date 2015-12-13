@@ -1,0 +1,6 @@
+D:\Projects\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\bin\Debug\PrimitiveTypesAndVariables.exe.config
+D:\Projects\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\bin\Debug\PrimitiveTypesAndVariables.exe
+D:\Projects\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\bin\Debug\PrimitiveTypesAndVariables.pdb
+D:\Projects\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.csprojResolveAssemblyReference.cache
+D:\Projects\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.exe
+D:\Projects\PrimitiveTypesAndVariables\PrimitiveTypesAndVariables\obj\Debug\PrimitiveTypesAndVariables.pdb

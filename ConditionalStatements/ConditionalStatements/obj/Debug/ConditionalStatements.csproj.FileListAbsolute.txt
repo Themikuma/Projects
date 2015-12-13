@@ -1,0 +1,6 @@
+D:\Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+D:\Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+D:\Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+D:\Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csprojResolveAssemblyReference.cache
+D:\Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+D:\Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

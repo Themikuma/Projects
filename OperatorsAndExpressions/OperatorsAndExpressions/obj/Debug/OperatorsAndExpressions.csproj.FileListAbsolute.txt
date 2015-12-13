@@ -1,0 +1,6 @@
+D:\Projects\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe.config
+D:\Projects\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe
+D:\Projects\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.pdb
+D:\Projects\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.csprojResolveAssemblyReference.cache
+D:\Projects\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.exe
+D:\Projects\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb

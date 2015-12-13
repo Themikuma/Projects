@@ -1,0 +1,6 @@
+D:\Projects\PineTreeGroup2\PineTreeGroup2\bin\Debug\PineTreeGroup2.exe.config
+D:\Projects\PineTreeGroup2\PineTreeGroup2\bin\Debug\PineTreeGroup2.exe
+D:\Projects\PineTreeGroup2\PineTreeGroup2\bin\Debug\PineTreeGroup2.pdb
+D:\Projects\PineTreeGroup2\PineTreeGroup2\obj\Debug\PineTreeGroup2.csprojResolveAssemblyReference.cache
+D:\Projects\PineTreeGroup2\PineTreeGroup2\obj\Debug\PineTreeGroup2.exe
+D:\Projects\PineTreeGroup2\PineTreeGroup2\obj\Debug\PineTreeGroup2.pdb

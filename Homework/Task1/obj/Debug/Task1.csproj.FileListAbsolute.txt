@@ -1,0 +1,6 @@
+D:\Projects\Homework\Task1\bin\Debug\Task1.exe.config
+D:\Projects\Homework\Task1\bin\Debug\Task1.exe
+D:\Projects\Homework\Task1\bin\Debug\Task1.pdb
+D:\Projects\Homework\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\Projects\Homework\Task1\obj\Debug\Task1.exe
+D:\Projects\Homework\Task1\obj\Debug\Task1.pdb
