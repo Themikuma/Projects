@@ -1,0 +1,6 @@
+D:\Projects\AdvancedCSharp\AdvancedCSharp\bin\Debug\AdvancedCSharp.exe.config
+D:\Projects\AdvancedCSharp\AdvancedCSharp\bin\Debug\AdvancedCSharp.exe
+D:\Projects\AdvancedCSharp\AdvancedCSharp\bin\Debug\AdvancedCSharp.pdb
+D:\Projects\AdvancedCSharp\AdvancedCSharp\obj\Debug\AdvancedCSharp.csprojResolveAssemblyReference.cache
+D:\Projects\AdvancedCSharp\AdvancedCSharp\obj\Debug\AdvancedCSharp.exe
+D:\Projects\AdvancedCSharp\AdvancedCSharp\obj\Debug\AdvancedCSharp.pdb
