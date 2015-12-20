@@ -1,0 +1,6 @@
+D:\Projects\ExamPreparation\Problem4\bin\Debug\Problem4.exe.config
+D:\Projects\ExamPreparation\Problem4\bin\Debug\Problem4.exe
+D:\Projects\ExamPreparation\Problem4\bin\Debug\Problem4.pdb
+D:\Projects\ExamPreparation\Problem4\obj\Debug\Problem4.csprojResolveAssemblyReference.cache
+D:\Projects\ExamPreparation\Problem4\obj\Debug\Problem4.exe
+D:\Projects\ExamPreparation\Problem4\obj\Debug\Problem4.pdb

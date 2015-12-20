@@ -1,0 +1,6 @@
+D:\Projects\ExamPreparation\GTE\bin\Debug\GTE.exe.config
+D:\Projects\ExamPreparation\GTE\bin\Debug\GTE.exe
+D:\Projects\ExamPreparation\GTE\bin\Debug\GTE.pdb
+D:\Projects\ExamPreparation\GTE\obj\Debug\GTE.csprojResolveAssemblyReference.cache
+D:\Projects\ExamPreparation\GTE\obj\Debug\GTE.exe
+D:\Projects\ExamPreparation\GTE\obj\Debug\GTE.pdb
